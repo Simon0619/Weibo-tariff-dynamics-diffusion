@@ -1,0 +1,30 @@
+# Master-revised-code 依赖 (Python 3.8, CUDA 12.0)
+# 核心数据分析
+pandas==2.0.3
+numpy==1.24.4
+scipy==1.10.1
+scikit-learn==1.3.2
+matplotlib==3.7.5
+seaborn==0.13.2
+tqdm==4.70.1
+jieba==0.42.1
+opencc-python-reimplemented==0.1.7
+networkx==3.1
+
+# 空间分析
+geopandas==0.13.2
+pyogrio==0.9.0
+libpysal==4.8.1
+esda==2.5.1
+mgwr==2.2.1
+statsmodels
+shapely==2.0.7
+
+# 情感分析 —— PyTorch/Transformers 路线 (论文路线: RoBERTa 蒸馏微调)
+torch==2.4.1
+transformers==4.46.3
+
+# 情感分析 —— PaddleNLP 路线 (本机实际使用, SKEP-ERNIE-large)
+# 校园网出口无法访问 HuggingFace, 改用百度 BOS 可达的 PaddleNLP 模型
+paddlepaddle-gpu==2.6.2
+paddlenlp==2.8.1
