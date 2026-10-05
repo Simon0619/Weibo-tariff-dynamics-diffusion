@@ -1,0 +1,4 @@
+region,n_posts,mean,median,std,Negative_n,Negative_share,Neutral_n,Neutral_share,Positive_n,Positive_share
+China,164568,0.4521,0.3881,0.3803,83120,0.5051,15698,0.0954,65749,0.3995
+United States,1666,0.3759,0.234,0.3585,997,0.5984,155,0.093,514,0.3085
+Overseas,3759,0.3974,0.2825,0.3612,2136,0.5682,398,0.1059,1225,0.3259
