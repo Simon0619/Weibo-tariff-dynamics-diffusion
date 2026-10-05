@@ -1,0 +1,4 @@
+event,center,pre_n,post_n,pre_mean,post_mean,mean_change,pre_neg_share,post_neg_share,neg_share_change,pre_pos_share,post_pos_share,pos_share_change
+Phase 1,2025-02-13,13070,18323,0.4851,0.447,-0.038,0.4601,0.5107,0.0505,0.4113,0.3772,-0.0341
+Phase 2,2025-04-09,8747,16311,0.3549,0.4477,0.0928,0.6194,0.5132,-0.1063,0.2961,0.3985,0.1024
+Phase 3,2025-05-14,5861,18253,0.5003,0.6404,0.1401,0.4513,0.291,-0.1603,0.4549,0.6384,0.1835
