@@ -1,0 +1,11 @@
+threshold,tier,count,mean_breadth,median_breadth,max_breadth,mean_depth,max_depth
+Basic (>2),GoldV,372,5.22,3.0,131,1.7,9
+Basic (>2),RedV,221,6.28,4.0,59,1.83,18
+Basic (>2),YellowV,86,9.48,4.0,76,1.44,7
+Basic (>2),BlueV,266,6.75,3.0,165,1.53,10
+Basic (>2),Regular,256,6.41,3.0,127,1.52,7
+Impact (>5),GoldV,78,12.17,8.0,131,2.1,9
+Impact (>5),RedV,67,12.78,8.0,59,2.0,10
+Impact (>5),YellowV,28,21.79,16.5,76,1.5,6
+Impact (>5),BlueV,46,22.85,9.0,165,2.61,10
+Impact (>5),Regular,59,16.41,9.0,127,1.92,7
