@@ -1,0 +1,6 @@
+metric,value
+Moran's I,-0.1898
+Moran's I p,0.1806
+OLS R2,0.611
+GWR R2,0.77
+GWR bandwidth,29.0
